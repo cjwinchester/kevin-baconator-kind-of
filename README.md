@@ -1,5 +1,5 @@
 # The Kevin Bacon game, kind of
-Using IMDB data to investigate whether {film person} has ever worked with {film person}. Action happens in [this Jupyter notebook](Has {film person} ever worked with {film person}?.ipynb), which could be useful for settling bar bets, though I guess in that scenario you'd need to have your laptop at the bar?
+Using IMDB data to investigate whether {film person} has ever worked with {film person}. Action happens in [this Jupyter notebook](https://github.com/cjwinchester/kevin-baconator-kind-of/blob/master/Has%20%7Bfilm%20person%7D%20ever%20worked%20with%20%7Bfilm%20person%7D%3F.ipynb), which could be useful for settling bar bets, though I guess in that scenario you'd need to have your laptop at the bar?
 
 📽 🍺 👩‍🎤
 
